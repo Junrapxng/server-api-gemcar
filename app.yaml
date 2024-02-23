@@ -2,4 +2,3 @@
 runtime: nodejs20
 env: standard
 instance_class: F1
-vm: true
